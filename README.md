@@ -41,7 +41,8 @@ I'm a Communication Systems Engineer with a Master's degree from KTH Royal Insti
 ## 📫 How to Reach Me
 
 - 📧 **Email:** [eliasdib147@gmail.com](mailto:eliasdib147@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/elias-dib](www.linkedin.com/in/mohamad-dib-b51286271) <!-- Replace with your correct LinkedIn URL if different -->
+- 💼 **LinkedIn:** [linkedin.com/in/Mohamad-dib](www.linkedin.com/in/mohamad-dib-b51286271) <!-- Replace with your correct LinkedIn URL if different -->
+
 
 ---
 
