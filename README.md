@@ -39,7 +39,9 @@ I'm a Communication Systems Engineer with a Master's degree from KTH Royal Insti
 ---
 
 ## 📫 How to Reach Me
-
+ <a href="https://mohamaddib147.github.io/mohamad-dib-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-0ea5e9?style=for-the-badge&logoColor=white" />
+  </a>
 - 📧 **Email:** [eliasdib147@gmail.com](mailto:eliasdib147@gmail.com)
 - [mohammaddeeb147@gmail.com](mailto:mohammaddeeb147@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mohamad-dib-b51286271](https://www.linkedin.com/in/mohamad-dib-b51286271)
