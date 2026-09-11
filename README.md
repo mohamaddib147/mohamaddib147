@@ -31,9 +31,11 @@ I'm a Communication Systems Engineer with a Master's degree from KTH Royal Insti
 | Project | Description | Technologies |
 | -------- | ------------ | -------------- |
 | **[RestoManager](https://github.com/mohamaddib147/resto-manager)** | Full-stack restaurant ordering platform built in a 3-person team — customer ordering flow plus an admin approval/onboarding workflow. | `React`, `Node.js`, `Express` |
+| **[Cedar Construction Management System](https://github.com/mohamaddib147/Construction-Project-Management-Accounting-System)** | Full-stack construction project management platform — project lifecycle tracking, procurement, inventory, and accounting from a role-based dashboard. | `Django`, `Python`, `PostgreSQL`, `Docker` |
 | **[Secure Over-the-Air Computation](https://github.com/mohamaddib147/Secure-Over-the-Air-Computation-using-Zero-Forced-Artificial-Noise)** (M.Sc. Thesis) | Developed and simulated a novel security framework to protect data links in next-gen wireless networks without degrading performance. | `Python`, `MATLAB`, `Signal Processing` |
-| **Vehicular Communication Security (VANETs)** | Engineered a robust security architecture for VANETs to ensure secure authentication, data integrity, and privacy in high-mobility environments. | `C++`, `Python`, `Network Protocols` |
+| **Vehicular Communication Security (IK2200, KTH)** | Secured Maneuver Coordination Protocol (MCP) messages in VANETs — built a VPKI client (IEEE 1609.2 / SECMACE) for privacy-preserving pseudonym issuance and cut trajectory-message overhead by ~79% via compression. | `Python`, `VANET`, `PKI`, `MCP` |
 | **[IoT Air Quality Monitoring System](https://github.com/mohamaddib147/aqiot)** | Built a full IoT pipeline for real-time air quality monitoring, from sensor integration and data collection to cloud-based analysis. | `Python`, `C/C++`, `IoT`, `Cloud APIs` |
+| **[CineTrack](https://github.com/mohamaddib147/CineTrack)** | Backend for a collaborative movie & TV tracker — Fastify REST API with JWT auth, TMDb integration, and MongoDB-modeled watchlists and favorites. | `Fastify`, `TypeScript`, `MongoDB` |
 | **TCP-Based Transmission Tool** | Created a custom network protocol tool in C++ for secure and efficient data transmission over TCP, demonstrating a deep understanding of the stack. | `C++`, `TCP/IP`, `Socket Programming` |
 
 ---
@@ -51,8 +53,6 @@ I'm a Communication Systems Engineer with a Master's degree from KTH Royal Insti
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-Backup email (if the one above has issues): mohammaddeeb147@gmail.com
 
 ---
 
