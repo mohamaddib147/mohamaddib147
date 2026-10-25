@@ -24,17 +24,6 @@ I design and build secure, reliable systems, from wireless links to production w
 
 ---
 
-## Experience
-
-| Role | Organization | Period |
-| --- | --- | --- |
-| Robotics Instructor | Bait Atfal Assomoud (NISCVT), Sidon | Sep 2026 – Oct 2026 |
-| Full Stack Engineer (Intern) | The Digital Hub, Beirut | May 2026 – Sep 2026 |
-| IT Systems & Technical Support Engineer | Khateeb Home Appliances, Beirut | Dec 2025 – May 2026 |
-| Project Field Assistant | UNRWA (German Cooperation / KfW) | Mar 2026 – Apr 2026 |
-
----
-
 ## Technical Skills
 
 | Area | Stack |
